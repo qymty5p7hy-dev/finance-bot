@@ -1,0 +1,14 @@
+finance-bot/
+├── src/
+│   ├── commands/
+│   │   ├── finance/
+│   │   ├── goals/
+│   │   └── stats/
+│   ├── models/
+│   ├── utils/
+│   ├── database/
+│   ├── index.js
+│   └── deploy-commands.js
+├── .env.example
+├── package.json
+└── README.md
